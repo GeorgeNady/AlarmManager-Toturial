@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">AlarmManager</string>
+    <string name="alarm_on">Alarm On</string>
+    <string name="alarm_off">Alarm Off</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="active_alarm_label">Tap to cancel the alarm</string>
+    <string name="inactive_alarm_label">Tap to activate the alarm</string>
+    <string name="show_next_alarm_s_time">Show next alarm\'s time</string>
 </resources>
